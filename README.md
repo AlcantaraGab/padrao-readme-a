@@ -28,3 +28,43 @@ O GitHub é uma plataforma de hospedagem de código-fonte que utiliza o sistema 
 <h4 align="center">
     Em construção :rocket:
 </h4>
+
+## Funcionalidades
+
+ - [X] README com Markdown
+ - [X] README com HTML
+ - [] Badge
+
+## Pré-Requisitos
+
+ - [VSCode](https://code.visualstudio.com/)
+ - [GIT](https://git-scm.com/)
+
+ ## Executar o Projeto
+
+ ```bash
+
+## Clone do repositório
+$ git clone <path do repositório>
+
+## Acesse a pasta do projeto via terminal
+$ cd meu-projeto
+
+## Abrir o VSCode no <path do repositório>
+$ code .
+
+ ```
+
+ ```bash
++---img           //Contém as imagens do README
++---temp          // Paste temp para gerar tree
+    +---temp-1    // Paste temp para gerar tree
+    +---temp-2    // Paste temp para gerar tree
++---temp copy     // Paste temp para gerar tree
+    +---temp-1    // Paste temp para gerar tree
+``` 
+
+## Tecnologias Utilizadas
+
+ - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+ - [MAKRDOWN](https://www.markdownguide.org/) 
